@@ -13,6 +13,8 @@
   white-space: nowrap;
   border: 1px solid black;
   height: 100vh;
+  background-color: white;
+  z-index: 99;
 }
 
 .drawer__close {
